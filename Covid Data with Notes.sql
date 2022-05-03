@@ -241,7 +241,7 @@ ON dea.location = vac.location
 
 SELECT * 
 FROM
-	#PercentPopulationVaccinated
+	PercentPopulationVaccinated
 
 
 
